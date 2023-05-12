@@ -57,4 +57,4 @@ This game is presented in [cafebazar](https://play.google.com) for free!
 - Thanks to all of the friends for their awesome help.
 
 
-Made with :heart: by [deepanjansitt](https://deepanjansitt.ir)
+Made with :heart: by [deepanjansitt](https://github.com/deepanjansitt)
