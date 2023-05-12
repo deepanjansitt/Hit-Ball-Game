@@ -26,7 +26,7 @@ Use multiple items and abilities in your way to achieving more score...
 
 ## Download
 
-This game is presented in [cafebazar](https://play.google.com) for free!
+This game is presented in [Playstore](https://play.google.com) for free!
 
 [Download link](https://play.google.com.deepanjansitt.hitball)
 
